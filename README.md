@@ -5,10 +5,7 @@ This project identifies fraudulent financial transactions using supervised machi
 - Project Overview
 - Tech Stack
 - Key Features
-- Model Comparision
 - Business Cost Optimization
-- How to Run
-- Author
 
 🧠 Project Overview
 1. Built a machine learning pipeline to detect fraud using a real-world dataset.
@@ -33,13 +30,6 @@ Streamlit	        App deployment
 - Threshold tuning for financial optimization
 - Interactive prediction interface with file upload support
 - Final fraud counts and loss estimates
-
-🧪 Model Comparison
-Model	                      AUC	      Recall	  F1-Score	
-Logistic Regression	        0.9946    0.97      0.93
-Random Forest	              0.9999    0.99      0.99
-XGBoost	                    0.9999    1.00      1.00
-
 
 
 💸 Business Cost Optimization
